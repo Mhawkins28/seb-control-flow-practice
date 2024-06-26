@@ -18,14 +18,14 @@ get.
 
 #### Prompt 1
 
-1. Create a variable called age and assign it to your age (or any number). Write a conditional that matches the following conditions:
+1. Create a variable (that caan be changed) called `age` and assign it to your age (or any number). Write a conditional that matches the following conditions:
    - if age is less than or equal 19, print "You're still a teenager!"
 
 #### Prompt 2
 
-2. Expanding on the previous exercise, write a conditional that matches the following conditions:
+2. Expanding on the previous exercise, re-assign the `age` variable and write a conditional that matches the following conditions:
    - if the age is less than 0 or greater than 120, print "Invalid age"
-   - if the age is between 0 and 12 (inclusive), print "A Child!"
+   - if the age is between 0 and 12 (inclusive), print "A child!"
    - if the age is between 13 and 19 (inclusive), print "Youths"
    - if the age is between 20 and 59 (inclusive), print "Adult"
    - if the age is 60 or above, print "Time to retire"
