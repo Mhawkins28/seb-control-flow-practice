@@ -10,11 +10,9 @@ get.
 - Conditions: including `if`, `if`/`else`, and `if`/`else if`/`else`
 - Loops: `for` loops
 
-## Setup and Instructions (tentative)
-
-1. Do the work in the [challenge.js](challenge.js) file.
-2. In the javaScript file, complete the excercies and `console.log` each exercise's answer.
-3. Be sure to number each function with a comment above it.
+## Setup and Instructions
+1. Fork and clone this repository
+2. Do the work in the [challenge.js](challenge.js) file.
 
 ## Exercises
 
